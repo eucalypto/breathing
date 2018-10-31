@@ -1,4 +1,7 @@
-.box {
+.container {
+  border: solid;
+}
+.breath {
   background-color: green;
   height: 50px;
   animation-name: breathe;
